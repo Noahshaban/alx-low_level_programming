@@ -1,0 +1,54 @@
+diff --git a/0x09-static_libraries/0-isupper.o b/0x09-static_libraries/0-isupper.o
+old mode 100755
+new mode 100644
+diff --git a/0x09-static_libraries/0-memset.o b/0x09-static_libraries/0-memset.o
+old mode 100755
+new mode 100644
+diff --git a/0x09-static_libraries/0-putchar.o b/0x09-static_libraries/0-putchar.o
+old mode 100755
+new mode 100644
+diff --git a/0x09-static_libraries/0-strcat.o b/0x09-static_libraries/0-strcat.o
+old mode 100755
+new mode 100644
+diff --git a/0x09-static_libraries/1-isdigit.o b/0x09-static_libraries/1-isdigit.o
+old mode 100755
+new mode 100644
+diff --git a/0x09-static_libraries/1-memcpy.o b/0x09-static_libraries/1-memcpy.o
+old mode 100755
+new mode 100644
+diff --git a/0x09-static_libraries/1-strncat.o b/0x09-static_libraries/1-strncat.o
+old mode 100755
+new mode 100644
+diff --git a/0x09-static_libraries/2-strchr.o b/0x09-static_libraries/2-strchr.o
+old mode 100755
+new mode 100644
+diff --git a/0x09-static_libraries/2-strlen.o b/0x09-static_libraries/2-strlen.o
+old mode 100755
+new mode 100644
+diff --git a/0x09-static_libraries/2-strncpy.o b/0x09-static_libraries/2-strncpy.o
+old mode 100755
+new mode 100644
+diff --git a/0x09-static_libraries/3-islower.o b/0x09-static_libraries/3-islower.o
+old mode 100755
+new mode 100644
+diff --git a/0x09-static_libraries/3-strcmp.o b/0x09-static_libraries/3-strcmp.o
+old mode 100755
+new mode 100644
+diff --git a/0x09-static_libraries/3-strspn.o b/0x09-static_libraries/3-strspn.o
+old mode 100755
+new mode 100644
+diff --git a/0x09-static_libraries/4-isalpha.o b/0x09-static_libraries/4-isalpha.o
+old mode 100755
+new mode 100644
+diff --git a/0x09-static_libraries/4-strpbrk.o b/0x09-static_libraries/4-strpbrk.o
+old mode 100755
+new mode 100644
+diff --git a/0x09-static_libraries/5-strstr.o b/0x09-static_libraries/5-strstr.o
+old mode 100755
+new mode 100644
+diff --git a/0x09-static_libraries/6-abs.o b/0x09-static_libraries/6-abs.o
+old mode 100755
+new mode 100644
+diff --git a/0x09-static_libraries/9-strcpy.o b/0x09-static_libraries/9-strcpy.o
+old mode 100755
+new mode 100644
